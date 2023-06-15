@@ -19,8 +19,8 @@ It is a smart thought of a system connecting between devices to optimize the way
                |
         ________________
        |                |
-   Bluetooth        Smartphone
-    Arduino       Android Studio 
+  Klati Smart      Smartphone
+    Arduino      Android Studio 
 ```
 
 ## Details
