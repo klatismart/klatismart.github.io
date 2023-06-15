@@ -2,7 +2,7 @@
 Let's develop together
 
 ## Build Project
-Facilitate the community to interact with activities in the field of farming or housing
+Make it easier for the public to interact with activities in the field of farming or housing, with just a voice command or clicking on a button the system will interact with carrying out commands.
 
 ## Logo
 [<img alt="Klati Smart" title="Klati Smart" width="20%" src="assets/icon/img-001.png" />](https://klatismart.github.io/) [<img alt="Klati Smart" title="Klati Smart" width="40%" src="assets/banner/img-001.png" />](https://klatismart.github.io/)
