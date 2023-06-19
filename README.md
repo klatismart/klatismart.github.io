@@ -8,7 +8,7 @@ Make it easier for the public to interact with activities in the field of farmin
 [<img alt="Klati Smart" title="Klati Smart" width="20%" src="assets/icon/img-001.png" />](https://klatismart.github.io/) [<img alt="Klati Smart" title="Klati Smart" width="40%" src="assets/banner/img-001.png" />](https://klatismart.github.io/)
 
 # Plan
-BoT (Bluetooth of Things)
+BoT (Bluetooth of Think)
 
 # What is BoT?
 It is a smart thought of a system connecting between devices to optimize the way of operation.
