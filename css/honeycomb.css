@@ -1,5 +1,6 @@
 .main-honey {
   width: 820px;
+  margin: 0 auto;
 }
 .honeycomb {
   display: flex;
