@@ -330,8 +330,8 @@
           <p class="hero ae-2 margin-bottom-3"><span class="opacity-8">Sambungkan BoT di tempat anda.</span></p>
 
           <div class="slides-form margin-bottom-3">
-            <input type="email" class="ae-3" name="email" placeholder="E-mail"/>
-            <button type="submit" class="button blue gradient ae-4" name="submit">Kirim</button>
+            <input type="email" class="ae-3" name="email" id="email" placeholder="E-mail" required/>
+            <button type="submit" class="button blue gradient ae-4" name="submit" onclick="mSend()">Kirim</button>
           </div>
 
           <a href="#" class="button hollow ae-6"><img src="assets/img/googleplay.jpg" height="63"/></a>
@@ -342,6 +342,17 @@
   </div>
   <div class="background" style="background-image:url(assets/img/background/img-95.jpg)"></div>
 </section>
+
+<script>
+	function mSend() {
+		var email = document.getElementById("email");
+		if (email.value < 1) {
+                   alert('Please fill out this field!');
+                } else {
+                   window.open('mailto:klatismart@gmail.com?subject=I need BoT systems, &body=Name :\nAddress :\nNumber Phone :\n\n');
+                }
+	}
+</script>
 
 <!-- Panel Bottom #15 -->
 <nav class="panel bottom lastSlideOnly">
